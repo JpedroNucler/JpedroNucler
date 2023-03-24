@@ -20,5 +20,5 @@ Meu nome é João Pedro, eu sou o desenvolvedor Front-End:
 <br>
 <br>
 <a href="https://www.instagram.com/jpedronucler/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
+<a href="https://www.linkedin.com/in/joão-pedro-faria-ferreira-1bb1b826b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
 <a href="https://open.spotify.com/playlist/7CkHslhNoCFMNpJLstNzuf?si=543b6baad82b4714"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"><a/>
