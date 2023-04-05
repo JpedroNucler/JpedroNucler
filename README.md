@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é João Pedro, eu sou o desenvolvedor Front-End:
+Meu nome é João Pedro e tenho deficiência auditiva (Pcd), eu sou o desenvolvedor Front-End:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
